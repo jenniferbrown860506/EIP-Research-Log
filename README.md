@@ -1,2 +1,15 @@
-# EIP-Research-Log
-EIP-Research-Log
+# Account Abstraction Study (账户抽象研究)
+
+本仓库专注于研究 EIP-4337 (账户抽象) 和 MPC（多方计算）钱包的底层技术，以提升用户体验和安全性。
+
+本仓库旨在：
+1.  追踪 EIPs 的最新进展和社区讨论。
+2.  记录智能合约钱包如何实现签名、Gas 费代付等功能。
+
+---
+
+## 🧠 查看每日 AA/EIPs 笔记
+
+所有最新的账户抽象和以太坊协议笔记都记录在以下文件中：
+
+**👉 点击这里查看 [LINKS.md](./LINKS.md)**
